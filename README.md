@@ -85,7 +85,7 @@ Full findings with details can be read in a report format as well as a presentat
 
 ## 🙌 Contributors
 
-[Year 2, AI Engineering Project, Diploma in AI & Data Engineering, Nanyang Polytechnic]
+[Year 2, Data Engineering Project, Diploma in AI & Data Engineering, Nanyang Polytechnic]
 - [**Min Phyo Thura**](https://github.com/your-github-handle) (Team Lead, Software)
 - [Lim Jin Bin](https://github.com/LimJinBin32) (Dashboard, Report)
 - [Alexander Chan](https://github.com/Redbeanchan) (Hardware, Report)  
